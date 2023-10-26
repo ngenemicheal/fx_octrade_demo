@@ -1,0 +1,96 @@
+[03-Oct-2020 13:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminDB.php:10
+Stack trace:
+#0 /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php(14): Admin->adminLogin('Clinton', 'd4e8e6deaa7b1f8...')
+#1 {main}
+  thrown in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminDB.php on line 10
+[03-Oct-2020 14:00:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminDB.php:10
+Stack trace:
+#0 /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php(14): Admin->adminLogin('Clinton', 'd4e8e6deaa7b1f8...')
+#1 {main}
+  thrown in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminDB.php on line 10
+[03-Oct-2020 14:02:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminDB.php:10
+Stack trace:
+#0 /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php(14): Admin->adminLogin('Clinton', 'd4e8e6deaa7b1f8...')
+#1 {main}
+  thrown in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminDB.php on line 10
+[06-Jul-2022 03:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Admin::msgtrader() in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php:370
+Stack trace:
+#0 {main}
+  thrown in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:26:23 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:26:23 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:26:23 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:26:23 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:26:23 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:27:06 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:27:06 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:27:06 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:27:06 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:27:06 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:27:21 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:27:21 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:27:21 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:27:21 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 00:27:21 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 370
+[07-Jul-2022 02:25:05 UTC] PHP Notice:  Undefined index: id in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 368
+[07-Jul-2022 02:33:13 UTC] PHP Notice:  Undefined index: id in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 368
+[10-Aug-2022 14:47:36 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:47:36 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:05 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:05 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:06 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:06 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:06 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:06 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:06 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:06 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:07 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:07 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:07 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:07 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:07 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:07 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:08 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:08 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:08 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:08 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:08 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:08 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:08 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:08 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:09 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:09 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:09 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:09 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:10 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:10 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:10 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:10 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:11 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:11 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:11 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:11 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:12 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:12 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:12 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:12 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:13 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:13 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:14 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:14 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:14 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:14 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:15 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:15 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:15 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:15 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:15 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:15 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:16 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:16 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:16 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:16 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:16 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:16 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
+[10-Aug-2022 14:48:17 UTC] PHP Notice:  Undefined index: adminusername in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 9
+[10-Aug-2022 14:48:17 UTC] PHP Notice:  Undefined index: adminpassword in /home/ejj2vbgwkfz2/public_html/Updated_Backend/admin/assets/php/adminAction.php on line 10
